@@ -1,6 +1,10 @@
 # geocode
 Converts a list of countries into geometric locations using the Google Maps API.
 
+There are already various lists available. This is simply a proof of concept and can be used when a dataset contains a list of countries that do not exactly match common names.
+
+This should match exactly, or similarly to the [Google Dev Country List](https://developers.google.com/public-data/docs/canonical/countries_csv).
+
 ## Instructions
 
 Register a Google Maps API key from the [Google developers console](https://console.developers.google.com/).
