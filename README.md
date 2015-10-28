@@ -1,5 +1,5 @@
 # geocode
-Converts a list of countries into geometric locations.
+Converts a list of countries into geometric locations using the Google Maps API.
 
 ## Instructions
 
